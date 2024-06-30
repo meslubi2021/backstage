@@ -38,9 +38,9 @@
     "@backstage/cli": "^0.15.0",
     "@backstage/config": "^0.1.15",
     "@vscode/sqlite3": "^5.0.7",
-    "knex": "^1.0.2",
+    "knex": "^2.4.0",
     "msw": "^0.35.0",
-    "mysql2": "^2.2.5",
+    "mysql2": "^3.9.8",
     "pg": "^8.3.0",
     "testcontainers": "^8.1.2",
     "uuid": "^8.0.0"
