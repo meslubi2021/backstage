@@ -35,8 +35,8 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "^0.12.0",
-    "@backstage/catalog-model": "^0.12.0",
+    "@backstage/backend-common": "^0.23.2",
+    "@backstage/catalog-model": "^1.5.0",
     "@backstage/config": "^0.1.15",
     "@backstage/errors": "^0.2.2",
     "@backstage/plugin-kubernetes-common": "^0.2.6",
